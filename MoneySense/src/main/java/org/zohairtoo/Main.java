@@ -9,7 +9,7 @@ public class Main {
         System.out.println("It will leverage AI to evaluate and suggest on the basis of user's age, that what needs to be done");
         System.out.println("It will have Microservice endpoints with Docker and Kubernetes as a backend");
         System.out.println("Some of the prominent parts");
-        System.out.println("1. Banking");
+        System.out.println("1. Accounts (Banking)");
         System.out.println("2. Investing");
         System.out.println("3. Insurance");
         System.out.println("4. Mortgage and Loans");
