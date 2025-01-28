@@ -12,7 +12,7 @@ public class Main {
         System.out.println("1. Banking");
         System.out.println("2. Investing");
         System.out.println("3. Insurance");
-        System.out.println("4. Mortgage/Loans");
+        System.out.println("4. Mortgage and Loans");
         System.out.println("5. Credit Cards");
 
 
